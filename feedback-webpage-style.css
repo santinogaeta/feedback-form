@@ -86,7 +86,7 @@ div, button {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-top: 170px;
+  margin-top: 100px;
 }
 
 .title {
@@ -116,12 +116,12 @@ div, button {
 }
 
 .textfield {
-background-color: #6e7098;
-color: white;
-font-size: 14px;
-border-radius: 10px;
-border: 2px solid white;
-padding: 10px 0px 10px 10px;
+  background-color: #6e7098;
+  color: white;
+  font-size: 14px;
+  border-radius: 10px;
+  border: 2px solid white;
+  padding: 10px 0px 10px 10px;
 }
 
 .textfield::placeholder {
@@ -142,7 +142,7 @@ padding: 10px 0px 10px 10px;
   display: grid;
   row-gap: 50px;
   column-gap: 50px;
-  margin: 0px 30px 0px 30px;
+  margin: 170px 30px 0px 30px;
 }
 
 @media (max-width: 1149px) {
